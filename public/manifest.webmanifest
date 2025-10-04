@@ -1,6 +1,6 @@
 {
   "name": "Dictionary",
-
+  "short_name": "Dictionary",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
