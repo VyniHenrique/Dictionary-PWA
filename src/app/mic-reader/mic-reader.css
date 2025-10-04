@@ -1,0 +1,12 @@
+.container-style{
+  background-color: #586D93;
+  border-radius: 8px;
+  min-height: 40rem;
+}
+
+.active{
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+
